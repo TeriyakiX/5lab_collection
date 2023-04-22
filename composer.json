@@ -8,15 +8,16 @@
             "name": "Dany"
         }
     ],
+
     "minimum-stability": "dev",
     "require": { "php": "^7.4 | ^8.0"},
 
     "autoload": {
         "psr-4": {
-            "Sessions\\": "src/"
+            "Sessions\\": "Src/"
         },
         "files": [
-            "src/helpers.php"
+            "Src/helpers.php"
         ]
     }
 
