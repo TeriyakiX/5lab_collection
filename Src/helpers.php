@@ -1,5 +1,5 @@
 <?php
-namespace Collect;
+namespace Session;
 
 function collectionSession(array $array = []): Session
 {
