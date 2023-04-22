@@ -1,5 +1,5 @@
 <?php
-namespace Session;
+namespace Sessions;
 
 class Session
 {
