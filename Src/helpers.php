@@ -3,5 +3,5 @@ namespace Sessions;
 
 function collectionSession(): Session
 {
-    return new Session();
+    return new Session;
 }
