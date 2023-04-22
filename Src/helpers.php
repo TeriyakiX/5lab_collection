@@ -1,7 +1,7 @@
 <?php
 namespace Collect;
 
-function collection(array $array = []): Collect
+function collectionSession(array $array = []): Session
 {
-    return new Collect($array);
+    return new Session($array);
 }

@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Collect\\' => array($baseDir . '/src'),
+    'Session\\' => array($baseDir . '/src'),
 );
